@@ -40,4 +40,6 @@ gem 'spring',        group: :development
 
 gem 'paperclip', "~> 4.1"
 
+gem 'sorcery'
+
 
